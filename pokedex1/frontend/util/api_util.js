@@ -1,6 +1,3 @@
-
-
-
 export const fetchAllPokemon = () => {
     return $.ajax ({
         method: "GET",
